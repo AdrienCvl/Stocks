@@ -9,3 +9,9 @@ Pour tester le programme :
 Pour ouvrir le fichier :
 
 Déplacer l'Excel créé par l'application vers un ordinateur pour l'ouvrir ou sur android installer Excel.
+
+
+A noter : 
+
+Ce programme est un proff of concept, par conséquent tous les produits ne sont pas demandé dans le programme même si le tableau est créé au complet.
+De plus lors des vérification le logiciel demande en entrée un caractère correspondant à un produit, ceux pouvant être inscrits sont "o" correspondant à un gilet d'épaule; "x" correspondant à une chaussure de décharge XS et "y" correspondant à une chaussure de décharge S (l'ordre n'est pas celui du tableau car les placards ne sont pas agencés de la même manière, cela permet de gagner du temps en évitant les aller-retours dans la salle lors de la prise de stock).
